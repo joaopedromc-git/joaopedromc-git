@@ -111,16 +111,27 @@ HubSpot → n8n → PostgreSQL → Metabase
 <div align="left">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=joaopedromc-git&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub de João Pedro"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopedromc-git&theme=tokyonight"
+    alt="Estatísticas dos repositórios de João Pedro"
   />
 
+<img
+ height="170"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopedromc-git&theme=tokyonight"
+ alt="Linguagens utilizadas nos repositórios de João Pedro"
+/>
+
+</div>
+
+<br>
+
+<div align="left">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedromc-git&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&langs_count=8"
-    alt="Linguagens mais utilizadas por João Pedro"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopedromc-git&theme=tokyonight"
+    alt="Detalhes do perfil GitHub de João Pedro"
   />
 </div>
+
 
 ---
 
