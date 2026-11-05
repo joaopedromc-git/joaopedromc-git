@@ -33,9 +33,9 @@ Transforma o anúncio de um produto em vídeos verticais para o TikTok Shop, sem
 
 ### 📊 Ecossistema Comercial de Automação e BI
 
-Integra **HubSpot, n8n, PostgreSQL e Metabase** para uma equipe comercial de 25 a 50 pessoas. Uma venda nova aparece no dashboard e num aviso no computador da equipe **em menos de 5 minutos**.
+Integra **HubSpot, n8n, PostgreSQL e Metabase** para uma equipe comercial de cerca de 30 pessoas. Uma venda nova aparece no dashboard e num aviso no computador da equipe **em menos de 5 minutos**.
 
-**30 a 40 mil leads e 500 a 1.000 vendas por mês · 2 a 5 h por semana de relatórios a menos.**
+**15 a 25 mil leads e 500 a 600 vendas por mês · 2 a 5 h por semana de relatórios a menos.**
 
 👉 **[EcossistemaComercial-Portfolio](https://github.com/joaopedromc-git/EcossistemaComercial-Portfolio)**
 </td>
